@@ -1,0 +1,12 @@
+numpy
+pandas
+boto3
+sagemaker
+flask
+tensorflow
+scipy
+opencv-python
+matplotlib
+h5py
+keras
+Pillow
